@@ -1,6 +1,6 @@
-#Laravel-Documentation-Offline
-
 <p align="center"> <img align="center" src="https://laravel.com/assets/img/components/logo-laravel.svg"> </p>
+
+# Laravel-Documentation-Offline
 
 Full Documentation of Laravel (Offline)
 
